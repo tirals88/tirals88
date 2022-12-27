@@ -4,3 +4,4 @@
 - 🐼 And my next goal is C++ / C#
 - 💞️ I’m looking to collaborate on ... / too early
 - 📫 How to reach me ' tirals88@gmail.com ' 
+- My velog : 'https://velog.io/@tirals88'
