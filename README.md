@@ -5,3 +5,6 @@
 - 💞️ I’m looking to collaborate on ... / too early
 - 📫 How to reach me ' tirals88@gmail.com ' 
 - My velog : 'https://velog.io/@tirals88'
+<a href="https://velog.io/@tirals88">
+  <img src="https://img.shields.io/badge/@tirals88-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
+</a>
