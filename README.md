@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tirals88
-- 👀 I’m interested in math, game, programming and science ( maybe ? )
+- 👀 I’m interested in math, game, programming and science
 - 🌱 I’m currently learning deep learning with python and the basic of data science
-- 🐼 And my next goal is C++ / C#
+- 🐼 And my next goal is C++ / ~~C#~~
 - 💞️ I’m looking to collaborate on ... / too early
 - 📫 How to reach me ' tirals88@gmail.com ' 
 <a href="https://velog.io/@tirals88">
