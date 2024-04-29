@@ -3,4 +3,4 @@
 - 🌱 I’m studying Deep learning with python Numerical Analysis, and Reinforcement Learning
 
 - 🐼 ~~And my next goal is C++~~ / ~~C#~~
-- 📫 How to reach me ' tirals88@gmail.com ' 
+- 📫 How to reach me ' munseokmin@khu.ac.kr ' 
